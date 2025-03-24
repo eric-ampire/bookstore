@@ -1,4 +1,4 @@
-package com.ericampire.web.bookstore
+package com.ericampire.web.bookstore.app
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
